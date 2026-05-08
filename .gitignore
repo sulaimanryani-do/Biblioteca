@@ -1,0 +1,15 @@
+*
+!.gitignore
+!.classpath
+!.project
+!.settings/
+!.settings/**
+!README.md
+!pom.xml
+!src/
+!src/**
+!bin/
+!bin/**
+!Downloads/
+Downloads/*
+!Downloads/Main.java
