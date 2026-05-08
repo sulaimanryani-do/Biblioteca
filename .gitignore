@@ -10,6 +10,3 @@
 !src/**
 !bin/
 !bin/**
-!Downloads/
-Downloads/*
-!Downloads/Main.java
